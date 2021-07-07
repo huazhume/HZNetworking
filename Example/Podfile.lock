@@ -1,0 +1,16 @@
+PODS:
+  - HZNetworking (0.1.0)
+
+DEPENDENCIES:
+  - HZNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  HZNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HZNetworking: 28144f8cb6ca0eb6fe43656fe9c3fd4577ff3734
+
+PODFILE CHECKSUM: 2814f16861faf0e522809942624be3eab24c853f
+
+COCOAPODS: 1.8.4
